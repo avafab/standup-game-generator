@@ -1,5 +1,6 @@
 # Stand-up game generator
-Quick game generator to try at the beginning of your next stand-up meeting!
+Quick game generator to try at the beginning of your next stand-up meeting.
+
 https://avafab.github.io/standup-game-generator/
 
 # How to add more games
