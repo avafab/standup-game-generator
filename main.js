@@ -9,6 +9,9 @@ let games = [
     'Tell us a story about something you’re wearing',
     'Imitate your own professional meeting voice.',
     'Sometimes I pretend to know how to [insert skill.]',
+    'Tell the story of your name',
+    "Tell 2 truths and one lie about yourself. Now ask others to guess which is the lie",
+    "Pick an item near you and tell the story of that item",
     //Questions
     'Where would you travel if you knew there was a chance you would have to stay there for up to a year?',
     'If you had to choose one car to drive forever, what would you pick?',
@@ -53,6 +56,7 @@ let games = [
     'Are there any shows you pretend you don’t watch when people ask you?',
     'Do you ever think your parents gave you the wrong name?',
     'What do you think about when you’re driving?',
+    'Who would you like to be in your next life?',
 
 ];
 
